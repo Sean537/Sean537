@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm Sean537👋</h1>
 
-<center>
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Stay hungry, stay foolish.;Think Different.;Creative Infinite.&center=true&size=17" />
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -40,7 +40,7 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 -->
-</center>
+</div>
 
 ---
 
@@ -50,16 +50,16 @@
 - 📚 I'm currently learning C/C++, Python, Swift, C#, Visual Basic, etc.</br>
 - ⚡ There is a saying from Steve Jobs, "Stay hungry, stay foolish."
 
-<center>
+<div align="center">
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-网站-8c36db" /></a>&emsp;
 <a href="https://space.bilibili.com/3493272892738031"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
 <!-- visitor -->
 <img src="https://komarev.com/ghpvc/?username=Sean537&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-</center>
+</div>
 
 ### 🔥  My Stats
 
-<center>
+<div align="center">
 
 [![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537)
 
@@ -67,11 +67,11 @@
 
 <img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
-</center>
+</div>
 
 ### 📋  My Projects
 
-<center>
+<div align="center">
 
 [![537 Clock](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537Clock)](https://github.com/Sean537/537Clock)
 
@@ -87,13 +87,20 @@
 
 [![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io)
 
-</center>
+</div>
 
 ### 🛠️  Language & Tools
 
-<img src="https://skillicons.dev/icons?i=ps,ae,pr,au,vscode,visualstudio,vim,git,c,cpp,cs,py,swift,html,css,js,windows,apple,linux" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,js" /></br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,git" /></br>
+<img src="https://skillicons.dev/icons?i=ps,ae,pr,au" /></br>
+<img src="https://skillicons.dev/icons?i=windows,apple,linux" /></br>
+</div>
 
 #### C++
+
+<div align="center">
 
 | Editor / IDE | Compiler |
 | --- | --- |
@@ -103,7 +110,11 @@
 | Visual Studio | MSVC |
 | Turbo-C | Turbo-C Compiler |
 
+</div>
+
 #### Python
+
+<div align="center">
 
 | Editor / IDE |
 | --- |
@@ -112,7 +123,11 @@
 | Aptana Studio 3 |
 | Python IDLE |
 
+</div>
+
 #### HTML + CSS + JavaScript
+
+<div align="center">
 
 | Editor |
 | --- |
@@ -121,13 +136,27 @@
 | Visual Studio Code |
 | Notepad++ |
 
+</div>
+
 #### Swift
 
-- Swift Playground
+<div align="center">
+
+| Tool |
+| --- |
+| Swift Playground |
+
+</div>
 
 #### C# / Visual Basic
 
-- Visual Studio + .NET Framework
+<div align="center">
+
+| Tool |
+| --- |
+| Visual Studio + .NET Framework |
+
+</div>
 
 ### ☎️  Contact Details
 
