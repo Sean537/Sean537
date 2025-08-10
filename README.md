@@ -68,23 +68,14 @@
 
 ### 📋  My Projects
 
-<div align="center">
-
 [![TC](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=TC)](https://github.com/Sean537/TC)
+
+[![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io)
 
 [![537 Clock](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537Clock)](https://github.com/Sean537/537Clock)
 
 [![537 Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=537Studio&repo=537Toolbox)](https://github.com/537Studio/537Toolbox)
 
-[![537 USB Disk Manager](https://github-readme-stats.vercel.app/api/pin/?username=537Studio&repo=537USBDiskManager)](https://github.com/537Studio/537USBDiskManager)
-
-[![537 Code Factory](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537CodeFactory)](https://github.com/Sean537/537CodeFactory)
-
-[![537 Text Editor](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537TextEditor)](https://github.com/Sean537/537TextEditor)
-
-[![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io)
-
-</div>
 
 ### 🛠️  Language & Tools
 
