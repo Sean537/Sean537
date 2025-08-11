@@ -60,22 +60,16 @@
 
 ### 🔥  My Stats
 
-[![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean537&layout=compact&langs_count=10)](https://github.com/Sean537)
-
-<img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+| <div align="center"> [![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537) </div> |
+| --- |
+| <div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean537&layout=compact&langs_count=10)](https://github.com/Sean537) </div> |
+| <div align="center"><img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div> |
 
 ### 📋  My Projects
 
-[![TC](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=TC)](https://github.com/Sean537/TC)
-
-[![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io)
-
-[![537 Clock](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537Clock)](https://github.com/Sean537/537Clock)
-
-[![537 Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=537Studio&repo=537Toolbox)](https://github.com/537Studio/537Toolbox)
-
+| [![TC](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=TC)](https://github.com/Sean537/TC) | [![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io) |
+| --- | --- |
+| [![537 Clock](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537Clock)](https://github.com/Sean537/537Clock) | [![537 Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=537Studio&repo=537Toolbox)](https://github.com/537Studio/537Toolbox) |
 
 ### 🛠️  Language & Tools
 
