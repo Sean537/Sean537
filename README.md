@@ -60,10 +60,13 @@
 
 ### 🔥  My Stats
 
-| <div align="center"> [![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537) </div> |
-| --- |
-| <div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean537&layout=compact&langs_count=10)](https://github.com/Sean537) </div> |
-| <div align="center"><img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div> |
+<div align="center">
+
+[![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean537&layout=compact&langs_count=10)](https://github.com/Sean537)
+<img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+</div>
 
 ### 📋  My Projects
 
