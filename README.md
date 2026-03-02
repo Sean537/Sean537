@@ -5,8 +5,6 @@
 <h1 align="center">Hello, I'm Sean537👋</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Stay hungry, stay foolish.;Think Different.;Creative Infinite.&center=true&size=17" />
-
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -58,21 +56,17 @@
 [![github](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSean537&labelColor=282c34&color=009f8f&logo=github&longCache=true)](https://github.com/Sean537)
 </div>
 
-### 🔥  My Stats
+### 🔥  My Status
 
 <div align="center">
-
-[![Sean537's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean537&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Sean537)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sean537&layout=compact&langs_count=10)](https://github.com/Sean537)
 <img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
 </div>
 
 ### 📋  My Projects
 
-| [![TC](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=TC)](https://github.com/Sean537/TC) | [![Sean537's Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=sean537.github.io)](https://github.com/Sean537/sean537.github.io) |
-| --- | --- |
-| [![537 Clock](https://github-readme-stats.vercel.app/api/pin/?username=Sean537&repo=537Clock)](https://github.com/Sean537/537Clock) | [![537 Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=537Studio&repo=537Toolbox)](https://github.com/537Studio/537Toolbox) |
+- [TC.hpp](https://github.com/Sean537/TC): A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
+- [sean537.github.io](https://github.com/Sean537/sean537.github.io): Aka <www.ithink537.top>, my personal static website which is build with HTML5 + CSS3 + JavaAcript.
+- [537 Clock](https://github.com/Sean537/537Clock): A C++11 console timer with breakthrough hunman-computer interaction and design philosophy of _Less is more_. However, it's ususally regarded as a **toy project** because it even have no practical application scenarios.
 
 ### 🛠️  Language & Tools
 
