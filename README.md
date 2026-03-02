@@ -67,7 +67,7 @@
 
 - [TC.hpp](https://github.com/Sean537/TC): A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
 - [sean537.github.io](https://github.com/Sean537/sean537.github.io): Aka www.ithink537.top, my personal static website which is build with HTML5 + CSS3 + JavaAcript.
-- [537 Clock](https://github.com/Sean537/537Clock): A C++11 console timer with breakthrough hunman-computer interaction and design philosophy of _Less is more_. However, it's ususally regarded as a **toy project** because it even have no practical application scenarios.
+- [537 Clock](https://github.com/Sean537/537Clock): A C++11 console timer with breakthrough human-computer interaction and design philosophy of _Less is more_. However, it's ususally regarded as a **toy project** because it even have no practical application scenarios.
 
 ### 🛠️  Language & Tools
 
