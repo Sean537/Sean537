@@ -73,7 +73,7 @@
 
 - 🌐 [sean537.github.io](https://github.com/Sean537/sean537.github.io)
 
-> 即 www.ithink537.top，我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
+> 即 www.ithink537.top ，我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
 > 
 > Aka www.ithink537.top, my personal static website which is built with HTML5 + CSS3 + JavaAcript.
 
