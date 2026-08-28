@@ -65,23 +65,23 @@
 
 ### 📋  项目 / My Projects
 
-#### 🖥️ [TC.hpp](https://github.com/Sean537/TC)
+- 🖥️ [TC.hpp](https://github.com/Sean537/TC)
 
-一个跨平台轻量级终端控制库，旨在用最简单的语法解决终端开发时遇到的各种问题。
+> 一个跨平台轻量级终端控制库，旨在用最简单的语法解决终端开发时遇到的各种问题。
+> 
+> A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
 
-A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
+- 🌐 [sean537.github.io](https://github.com/Sean537/sean537.github.io)
 
-#### 🌐 [sean537.github.io](https://github.com/Sean537/sean537.github.io)
+> 即 www.ithink537.top，我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
+> 
+> Aka www.ithink537.top, my personal static website which is built with HTML5 + CSS3 + JavaAcript.
 
-即 www.ithink537.top，我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
+- ⏱️ [537 Clock](https://github.com/Sean537/537Clock)
 
-Aka www.ithink537.top, my personal static website which is built with HTML5 + CSS3 + JavaAcript.
-
-#### ⏱️ [537 Clock](https://github.com/Sean537/537Clock)
-
-一个使用 C++11 编写，具有突破性的人机交互和“*少即是多*”设计理念的终端秒表。但这当前确实是一个“玩具项目”，并且由于写的时候还是小白未免太屎山，以后有空重构吧～
-
-A C++11 console timer with breakthrough human-computer interaction and design philosophy of _Less is more_. However, this is currently just a toy project. Written when I was a noob, the codebase is admittedly quite spaghetti. Will refactor someday when I'm free~
+> 一个使用 C++11 编写，具有突破性的人机交互和“*少即是多*”设计理念的终端秒表。但这当前确实是一个“玩具项目”，并且由于写的时候还是小白未免太屎山，以后有空重构吧～
+> 
+> A C++11 console timer with breakthrough human-computer interaction and design philosophy of _Less is more_. However, this is currently just a toy project. Written when I was a noob, the codebase is admittedly quite spaghetti. Will refactor someday when I'm free~
 
 ### 🛠️  语言和工具 / Language & Tools
 
