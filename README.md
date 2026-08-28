@@ -44,9 +44,9 @@
 
 ### 👩‍💻  关于我 / About Me
 
-- 🔭 我就读于杭州高级中学，现高一。 ｜ I'm a Senior 1 student at Hangzhou High School.
-- 📚 我当前聚焦于对前后端开发、网络安全、终端命令与服务器运维等领域的学习。 ｜ I'm currently concentrating on front-end and back-end development, cybersecurity, CLI, and server administration.
-- ⚡ 求知若饥，虚心若愚。 ｜ *Stay hungry, stay foolish.*
+- 🔭 我就读于杭州高级中学，现高一。</br>I'm a Senior 1 student at Hangzhou High School.
+- 📚 我当前聚焦于对前后端开发、网络安全、终端命令与服务器运维等领域的学习。</br>I'm currently concentrating on front-end and back-end development, cybersecurity, CLI, and server administration.
+- ⚡ 求知若饥，虚心若愚。</br>*Stay hungry, stay foolish.*
 
 <div align="center">
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-网站-8c36db" /></a>&emsp;
