@@ -71,11 +71,11 @@
 > 
 > A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
 
-- 🌐 [sean537.github.io](https://github.com/Sean537/sean537.github.io)
+- 🌐 [www.ithink537.top](https://github.com/Sean537/sean537.github.io)
 
-> 即 www.ithink537.top ，我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
+> 我的个人静态站点，基于 HTML5、CSS3 和 JavaScript。
 > 
-> Aka www.ithink537.top, my personal static website which is built with HTML5 + CSS3 + JavaAcript.
+> Aka my personal static website which is built with HTML5 + CSS3 + JavaAcript.
 
 - ⏱️ [537 Clock](https://github.com/Sean537/537Clock)
 
