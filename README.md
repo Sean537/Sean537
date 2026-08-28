@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/131773717?v=4"/>
 </div>
 
-<h1 align="center">Hello, I'm Sean537👋</h1>
+<h1 align="center">Hello～我是 Sean537👋</h1>
 
 <div align="center">
   
@@ -42,11 +42,11 @@
 
 ---
 
-### 👩‍💻  About Me
+### 👩‍💻  关于我 / About Me
 
-- 🔭 I'm a middle school student in China. I'm also the CEO and one of the founders of 537 Studio.</br>
-- 📚 I'm currently learning C/C++, Python, Swift, C#, Node.js, etc.</br>
-- ⚡ There is a saying from Steve Jobs, "Stay hungry, stay foolish."
+- 🔭 我就读于杭州高级中学，现高一。 ｜ I'm a Senior 1 student at Hangzhou High School.
+- 📚 我当前聚焦于对前后端开发、网络安全、终端命令与服务器运维等领域的学习。 ｜ I'm currently concentrating on front-end and back-end development, cybersecurity, CLI, and server administration.
+- ⚡ 求知若饥，虚心若愚。 ｜ *Stay hungry, stay foolish.*
 
 <div align="center">
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-网站-8c36db" /></a>&emsp;
@@ -57,19 +57,19 @@
 [![github](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSean537&labelColor=282c34&color=009f8f&logo=github&longCache=true)](https://github.com/Sean537)
 </div>
 
-### 🔥  My Status
+### 🔥  状态 / My States
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Sean537&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-### 📋  My Projects
+### 📋  项目 / My Projects
 
 - [TC.hpp](https://github.com/Sean537/TC): A cross-platform lightweight terminal-control library, which is designed to solve all kinds of problems encountered during development with the simplest syntax.
 - [sean537.github.io](https://github.com/Sean537/sean537.github.io): Aka www.ithink537.top, my personal static website which is built with HTML5 + CSS3 + JavaAcript.
 - [537 Clock](https://github.com/Sean537/537Clock): A C++11 console timer with breakthrough human-computer interaction and design philosophy of _Less is more_. However, it's usually regarded as a **toy project** because it even have no practical application scenarios.
 
-### 🛠️  Language & Tools
+### 🛠️  语言和工具 / Language & Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,swift,html,css,js" /></br>
@@ -78,7 +78,7 @@
 <img src="https://skillicons.dev/icons?i=windows,apple,linux" /></br>
 </div>
 
-### ☎️  Contact Details
+### ☎️  联系方式 / Contact Details
 
 - E-mail: <wushaoquan666@outlook.com>
 - QQ: 2649231235
